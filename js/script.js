@@ -13,24 +13,24 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
     {
-      name: 'music-1',
+        name: 'music-1',
+        displayName: 'All of My Angels',
+        artist: 'Machinae Supremacy',
+    },
+    {
+        name: 'music-2',
+        displayName: 'Never Gonna Give You Up',
+        artist: 'Rick Astley',
+    },
+    {
+      name: 'music-3',
       displayName: 'Epic Sax Music',
       artist: 'Epic Sax Guy',
     },
     {
-      name: 'music-2',
-      displayName: 'Friday I\'m in Love',
-      artist: 'The Cure (8bit version)',      
-    },
-    {
-      name: 'music-3',
-      displayName: 'Mundian To Bach Ke',
-      artist: 'Panjabi MC',
-    },
-    {
       name: 'music-4',
-      displayName: 'Never Gonna Give You Up',
-      artist: 'Rick Astley',
+      displayName: 'Beyond Good and Evil',
+      artist: 'Machinae Supremacy',      
     },
   ];
 
